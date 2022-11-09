@@ -1,0 +1,1 @@
+{"page":{"title":"Welcome to next.js yall!","intro":"Get started by editing","blocks":[{"type":"CodeBlock","props":{"className":"lol","children":"testing CodeBlock","title":""}},{"type":"ClientTestComponent","props":{"className":"lol","children":"testing ClientTestComponent"}},{"type":"CodeBlock","props":{"className":"lol","children":"another CodeBlock","title":""}}]}}
